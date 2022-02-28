@@ -2,7 +2,7 @@ Aquí guardo los cambios de la característica 1
 
 cambio 2
 
-<<<<<<< HEAD
-=======
 cambio para fast forward
->>>>>>> refs/heads/parafastforward
+
+Lo mismo p
+añadimos para fast forward 2
