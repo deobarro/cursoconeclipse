@@ -2,4 +2,3 @@ Aquí guardo los cambios de la característica 1
 
 cambio 2
 
-un cambio para fast forward
