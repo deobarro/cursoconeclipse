@@ -3,3 +3,5 @@ Este es el primer contenido de prueba
 trabajp en lo que me han pedido a medias del otro trabajo
 
 cambio de rama 1
+
+Corregido el error encontrado
