@@ -1,14 +1,16 @@
-Aquí guardo los cambios de la característica 1
+Arreglo rÃ¡pido en producciÃ³n
+
+Aquï¿½ guardo los cambios de la caracterï¿½stica 1
 
 cambio 2
 
 cambio para fast forward
 
 Lo mismo p
-añadimos para fast forward 2
+aï¿½adimos para fast forward 2
 
 cambio olvidado
 
-Añado para subir al servidor
+Aï¿½ado para subir al servidor
 
 otro cambio pero sin push
